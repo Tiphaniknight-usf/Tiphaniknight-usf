@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Tiphani 👋
 
-<!--
-**Tiphaniknight-usf/Tiphaniknight-usf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student athlete at USF and passionate about learning, growth and technology.
 
-Here are some ideas to get you started:
+## 🎓 Academic Interests 
+I am interested in business, analytics and technology. I enjoy learning how data and programing can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Career Goals 
+My goal is to build a career where I can combine problem-solving, analytics, and teamwork. I am interested in opportunities that involve data analytics, business strategy, and technology.
+
+## 🛠️ Skills & Tools I’m Learning
+- Python
+- Data Analytics
+- Git & GitHub
+- DataCamp
